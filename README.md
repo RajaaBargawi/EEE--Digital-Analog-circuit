@@ -1,1 +1,1 @@
-In this report, I designed an analog sensor circuit and wrote its code, in addition to designing a digital circuit
+In this report, I designed both an analog sensor circuit and a digital sensor circuit as well as writing the code for both circuits
